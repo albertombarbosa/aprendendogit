@@ -1,3 +1,4 @@
-Nome: JaPa
+Nome: Japa
 Idade:  20
 Time: Barcelona
+Nascimento: 19/05/2000
