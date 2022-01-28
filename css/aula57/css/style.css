@@ -1,0 +1,25 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Robot', 'Montserrat';
+    text-align: center;
+}
+
+.post-container {
+    font-family: 'Open Sans';
+    text-align: left;
+}
+
+.post {
+    background-color: #fffafa;
+    padding: 20px 30px;
+}
+
+.date {
+    font-family: 'Roboto';
+    color: #008080;​
+}
+
+h1 {
+    font-family: 'Montserrat';
+}
