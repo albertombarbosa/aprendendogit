@@ -1,4 +1,0 @@
-Nome: Alberto
-Idade:  29
-Time: Palmeiras
-Nascimento: 19/05/1992

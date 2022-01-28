@@ -1,4 +1,0 @@
-Nome: Adalberto
-Idade:  20
-Time: Santos
-Nascimento: 19/05/1999
