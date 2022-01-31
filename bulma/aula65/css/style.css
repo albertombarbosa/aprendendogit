@@ -1,0 +1,21 @@
+.mine-profession{
+    border: 1px solid #474747;
+    padding: 2px 8px;
+    border-radius: 5px;
+    background-color: #474747;
+    color: #FFF;
+}
+
+.mine-aboutme{
+    border: 1px solid #eee;
+    border-radius: 2px;
+    padding: 4px;
+}
+
+section > h4{
+    padding-top: 8px;
+}
+
+.mine-hr{
+    width: 80%;
+}
