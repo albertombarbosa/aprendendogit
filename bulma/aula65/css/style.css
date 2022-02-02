@@ -19,3 +19,15 @@ section > h4{
 .mine-hr{
     width: 80%;
 }
+
+.mine-border-contato {
+    border: 1px solid #CCC;
+    border-radius: 3px;
+    padding: 8px;
+}
+
+.mine-border-contato{
+    line-height: 10px;
+    padding-top: 18px;
+}
+
