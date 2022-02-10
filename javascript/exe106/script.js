@@ -3,14 +3,17 @@ let velocidade = 0;
 
 function acelerar(){
     velocidade += 5;
+    sistema();
 }
 
 function desacelerar(){
     velocidade -= 5;
+    sistema();
 }
 
 function imprimirDados(){
     alert("O nome da nave é: " +nomeNave+ " e sua velocidade é de: " +velocidade);
+    sistema();
 }
 
 function sair(){
@@ -26,15 +29,12 @@ function sistema(opcao = menu()){
     switch(opcao){
         case "1":
             acelerar();
-            sistema();
             break;
         case "2":
             desacelerar();
-            sistema();
             break;
         case "3":
             imprimirDados();
-            sistema();
             break;
         case "4":
             sair();
