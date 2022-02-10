@@ -3,7 +3,7 @@ let novaNave = "";
 let de = prompt("Qual caractere você deseja substituir?");
 let por = prompt("Por qual caractere você deseja substituir?");
 
-for(let i = 0; i <= nome.length; i++){
+for(let i = 0; i < nome.length; i++){
 
     if(nome[i] != de){
         novaNave += nome[i];
@@ -13,5 +13,3 @@ for(let i = 0; i <= nome.length; i++){
 }
 
 console.log(novaNave);
-
-
